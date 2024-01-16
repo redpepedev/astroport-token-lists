@@ -687,5 +687,12 @@
     "token": "sei19fd3zhuyfwpe6n85sf8x2c0xygvlcq6r8m4f5yd87fw9tp9akk2sdvpwrr",
     "icon": "/img/dojoseisino.webp",
     "decimals": 6
+  },
+  {
+    "protocol": "Red Pepe",
+    "symbol": "RedPEPE",
+    "token": "sei1frt8ac4sm0eax4zar8qylyh607ez2d2mrvp0yxuc3am8yp7v3jhsla4yc2",
+    "icon": "/img/redpepe.png",
+    "decimals": 6
   }
 ]
